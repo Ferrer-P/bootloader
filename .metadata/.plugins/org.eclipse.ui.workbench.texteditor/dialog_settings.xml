@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="commands_available"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="supported_commands"/>
+			<item value="INVALID_SECTOR"/>
+			<item value="ADDR_INVALID"/>
+			<item value="ADDR_VALID"/>
+			<item value="C_UART"/>
+			<item value="bl_rx_buffer"/>
+			<item value="host_crc "/>
+			<item value="FLASH_UNLOCK"/>
+			<item value="go_address"/>
+			<item value="uint8_t bootloader_verify_crc (uint8_t *pData, uint32_t len, uint32_t crc_host)"/>
+			<item value="PCE"/>
+			<item value="DBGMCU_BASE"/>
+			<item value="printmsg"/>
+			<item value="hello"/>
+		</list>
+		<list key="replacehistory">
+			<item value="commands_available"/>
+			<item value="suppor"/>
+			<item value="0x01"/>
+			<item value="0x00"/>
+			<item value="&amp;huart2"/>
+			<item value="uart_buff"/>
+			<item value="address_desired"/>
+			<item value=""/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="935"/>
+		<item key="DIALOG_Y_ORIGIN" value="205"/>
+		<item key="DIALOG_WIDTH" value="322"/>
+		<item key="DIALOG_HEIGHT" value="391"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>
